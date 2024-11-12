@@ -42,6 +42,8 @@ We welcome contributions to this project. Feel free to fork the repository and s
 
 For more information, please refer to the project documentation and research paper.
 
+## Research paper link : https://ieeexplore.ieee.org/document/10593979
+
 License
 MIT License
 Copyright (c) 2024 janardhan bv
