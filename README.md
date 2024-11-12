@@ -40,7 +40,9 @@ Advanced AI Algorithms: Utilize AI to improve accident detection accuracy and al
 Contributions
 We welcome contributions to this project. Feel free to fork the repository and submit pull requests.
 
-License
-[Specify the license, e.g., MIT, GPL]
-
 For more information, please refer to the project documentation and research paper.
+
+License
+MIT License
+Copyright (c) 2024 janardhan bv
+
