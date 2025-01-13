@@ -40,7 +40,7 @@ int buz = 13;
 int stop = 0;
 
 
-char *phone_no[] = {"8792316989"};
+char *phone_no[] = {"8173----"}; // add the numbers to which sms has to be sent 
 
 void setup(){   
 pinMode(in1, INPUT);
